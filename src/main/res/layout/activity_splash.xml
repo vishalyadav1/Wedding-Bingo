@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/spl"
+    android:gravity="bottom"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Welcome To Wedding Bingo"
+        android:id="@+id/welcomeTV"
+        android:textSize="30sp"
+        android:textColor="@android:color/holo_orange_dark"
+        android:layout_gravity="left|bottom" />
+</FrameLayout>

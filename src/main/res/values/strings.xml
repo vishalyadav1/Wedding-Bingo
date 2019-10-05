@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wedding Bingo</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="title_about_us">About_us</string>
+</resources>
